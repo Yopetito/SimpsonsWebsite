@@ -13,7 +13,7 @@
 - ✅ Utiliser les modules CSS Media Queries afin de rendre le site responsive
                      
 ## 🔧 Technologies utilisées
-[![My Skills](https://skillicons.dev/icons?i=HTML)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 ## 💡 Concepts clés abordés
