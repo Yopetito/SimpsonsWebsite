@@ -17,10 +17,13 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 ## 💡 Concepts clés abordés
-- Structure HTML
-- Balises HTML
-- Règles de style
-- Media Queries
+- **HTML**
+  - Sémantique HTML
+  - Balises HTML
+- **CSS**
+  - Flexbox
+  - Règles de style
+  - Media Queries
 
 
 ##📖
