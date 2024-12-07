@@ -2,12 +2,12 @@
 
 ## 🎯 Objectifs pédagogiques
 - Apprendre plus de HTML CSS
-- Structure HTML
+- Sémantique HTML
 - Sélécteurs CSS / Règle de style
 - Rendre le site web responsive
 
 ## 📝 Consignes
-- ✅ Reproduire un site web sur la thématique des simpsons. Mettant en place un structure basique HTML:
+- ✅ Reproduire un site web sur la thématique des simpsons. Sémantique HTML:
   Header / Nav / Article / Aside / Footer.
 - ✅ Utiliser / s'entrainer afin d'arriver au resultat voulu en utilisant CSS
 - ✅ Utiliser les modules CSS Media Queries afin de rendre le site responsive
