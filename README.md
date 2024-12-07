@@ -1,9 +1,12 @@
 # Exercice apprentissage: Site web Simpsons
 
+## 📋 Contexte du projet
+Dans le cadre de ma formation en développement web et web mobile, j'ai du créer une replique d'un site web contenant une seule page.
+
 ## 🎯 Objectifs pédagogiques
-- Apprendre plus de HTML CSS
-- Sémantique HTML
-- Sélécteurs CSS / Règle de style
+- Créer une page d'accueil utilisant HTML CSS
+- S'habituer a la sémantique HTML
+- Comprendre les Sélécteurs CSS / Règle de style
 - Rendre le site web responsive
 
 ## 📝 Consignes
