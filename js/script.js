@@ -4,12 +4,12 @@ function showResponsiveMenu() {
     navMenu.classList.toggle('open');
 }
 
-// Cerrar el menú si se hace clic fuera de él
+// Fermer menu
 document.addEventListener('click', function(event) {
     const navMenu = document.getElementById('nav_responsive_menu');
     const burgerMenu = document.getElementById('burger_menu');
 
-    // Verifica si el clic fue fuera del menú y del icono burger
+    // Verifier si click en dehors du menu
     if (!navMenu.contains(event.target) && !burgerMenu.contains(event.target)) {
         navMenu.classList.remove('open');
     }
